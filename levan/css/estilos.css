@@ -1,0 +1,45 @@
+body
+{
+    background: darkblue;
+    color: crimson;
+    text-align: center;
+    font-family:Arial;
+    margin: 0%;
+    padding: 0%;
+    background:springgreen;
+}
+
+#cabecera #logo
+{
+    width: 100px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0 0 0 1em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid chocolate;
+    margin: 0 auto;
+}
+
+#footer
+{
+    background: darkred;
+    color: deeppink;
+    text-align: center;
+    padding: 0.5em;
+}
+
+#container h1
+{
+    font-size: 100%;
+}
